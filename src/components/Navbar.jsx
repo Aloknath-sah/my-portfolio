@@ -12,7 +12,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
         <div className="flex justify-between items-center h-16">
           <a href="#home" className="font-mono text-xl font-bold text-white">
             {" "}
-            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Logo" className="w-20" />
+            <img src={`${import.meta.env.BASE_URL}A_logo_img.png`} alt="Logo" className="w-20" />
           </a>
 
           <div
