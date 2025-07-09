@@ -8,10 +8,11 @@ export const About = () => {
     "React",
     "Redux",
     "TailwindCSS",
-    "TypeScript"
+    "TypeScript",
+    "NextJs"
   ];
 
-  const backendSkills = ["Node.js", "Express.js", "MongoDB", "GraphQL"];
+  const backendSkills = ["Node.js", "Express.js", "MongoDB"];
 
   return (
     <section
