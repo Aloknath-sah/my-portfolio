@@ -86,11 +86,10 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    4 years of Experience in Software Engineering at Ajio and Sparkviz (2021 - Present){" "}
+                    5+ years of Experience in Software Engineering at Ajio, Sparkviz and Affine (2021 - Present){" "}
                   </h4>
                   <p>
-                    Developed and maintained website for e-commerce and logistics
-                    applications.
+                    Developed and maintained website for e-commerce, logistics and insurance clients.
                   </p>
                 </div>
 
